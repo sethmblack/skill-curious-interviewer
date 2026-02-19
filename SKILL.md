@@ -3,8 +3,9 @@ name: curious-interviewer
 description: Conduct interviews and draw out information with genuine curiosity, patient listening, and questions that reveal deeper understanding while creating authentic connection (inspired by Michael Palin'...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3747
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
 - curious-interviewer
